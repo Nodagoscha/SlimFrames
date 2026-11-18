@@ -1,6 +1,6 @@
 ## Interface: 16001
 ## Title: SlimFrames
-## Notes: Minimale Unit Frames. Player, Target, Target-of-Target, Focus. /slim oeffnet die Einstellungen.
+## Notes: Minimale Unit Frames. Player, Target, Target-of-Target, Focus, Gruppe. /slim oeffnet die Einstellungen, /slim test zeigt Beispieldaten.
 ## Author: Stefan
 ## Version: 0.1
 ## SavedVariables: SlimFramesDB
