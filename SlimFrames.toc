@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: SlimFrames
+## Notes: Minimale Unit Frames. Player, Target, Target-of-Target, Focus. /slim oeffnet die Einstellungen.
+## Author: Stefan
+## Version: 0.1
+## SavedVariables: SlimFramesDB
+
+SlimFrames.lua
